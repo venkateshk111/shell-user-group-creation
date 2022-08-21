@@ -13,3 +13,5 @@ GIT_COMMITTER_NAME="$GIT_AUTHOR_NAME"; fi' -- --all
 # mymailid@mail.com – this was my wrong email during initial days for my github
 # mycorrectmail@gmail.com – enter your correct email that you set in the global config
 # Correct Name – enter your correct name which you have set in global config
+# After you make sure everything is correct run the script from terminal/console using the command: 
+# ./git-author-rename.sh  ( use chmod +x git-author-rename.sh if req.)
