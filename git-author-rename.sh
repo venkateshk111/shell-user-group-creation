@@ -15,3 +15,5 @@ GIT_COMMITTER_NAME="$GIT_AUTHOR_NAME"; fi' -- --all
 # Correct Name – enter your correct name which you have set in global config
 # After you make sure everything is correct run the script from terminal/console using the command: 
 # ./git-author-rename.sh  ( use chmod +x git-author-rename.sh if req.)
+# Push changes to a remote repository
+# git push -f
